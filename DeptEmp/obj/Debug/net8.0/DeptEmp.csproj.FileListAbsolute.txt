@@ -1,0 +1,7 @@
+C:\Users\chait\source\repos\DeptEmp\obj\Debug\net8.0\DeptEmp.csproj.AssemblyReference.cache
+C:\Users\chait\source\repos\DeptEmp\obj\Debug\net8.0\DeptEmp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chait\source\repos\DeptEmp\obj\Debug\net8.0\DeptEmp.AssemblyInfoInputs.cache
+C:\Users\chait\source\repos\DeptEmp\obj\Debug\net8.0\DeptEmp.AssemblyInfo.cs
+C:\Users\chait\source\repos\DeptEmp\obj\Debug\net8.0\DeptEmp.csproj.CoreCompileInputs.cache
+C:\Users\chait\source\repos\DeptEmp\obj\Debug\net8.0\DeptEmp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\chait\source\repos\DeptEmp\obj\Debug\net8.0\DeptEmp.MvcApplicationPartsAssemblyInfo.cache
